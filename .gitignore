@@ -2,3 +2,4 @@ venv/
 nvenv/
 *.egg-info/
 __pycache__/
+logs/
